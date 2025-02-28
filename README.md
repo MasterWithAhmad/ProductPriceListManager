@@ -14,6 +14,14 @@ A **Windows Forms** application built with **C#** and **MSSQL**, designed to eff
 
 ---
 
+## Screenshots
+
+### 📌 Product List View
+![Product List](ProductList.png)
+
+### 📌 Update Product Price
+![Update Product](UpdatePrice.png)
+
 ## Requirements
 
 - **.NET Framework 4.7.2**
