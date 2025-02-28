@@ -1,0 +1,45 @@
+﻿# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istros/
+[Dd]ebug/Packages/
+[Dd]ebugOutput/
+[Dd]ebugSource/
+[Dd]ebugFinal/
+
+# User-specific files
+*.vspscc
+*.vssscc
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files
+.vscode/
+
+# Package distribution folder
+packages/
+
+
+# Log files
+*.log
+
+# Tye files
+.tye/
+
+
+
+# Visual Studio for Mac
+.vscode/
